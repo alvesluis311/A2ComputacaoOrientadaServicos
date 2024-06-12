@@ -1,0 +1,31 @@
+name: dockercompose12915377532835276625
+services:
+  game:
+    build:
+      context: C:\Users\felip\Documents\Sistemas de Informação\Trabalhos\Game
+      dockerfile: Game/Dockerfile
+    depends_on:
+      sqlserver:
+        condition: service_started
+        required: true
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+      ASPNETCORE_HTTP_PORTS: "8080"
+    image: game
+    networks:
+      default: null
+    ports:
+      - mode: ingress
+        target: 8080
+        published: "8081"
+        protocol: tcp
+  sqlserver:
+    environment:
+      ACCEPT_EULA: "Y"
+      SA_PASSWORD: SuaSenhaAqui
+    image: mcr.microsoft.com/mssql/server:latest
+    networks:
+      default: null
+networks:
+  default:
+    name: dockercompose12915377532835276625_default
