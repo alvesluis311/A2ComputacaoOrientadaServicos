@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/oZonEX9Etuyfo7mF4gTQHWSbnUYuXTxKDVWZP26DLpZhb9mpRomVbme5iHZql2IjOLrxY/m3NRh1FivccVXIw==",
+  "dgSpecHash": "jBzVWf9jE7VF9ptPXGHIgFi2G+Ig1eYSvaqU6EpJ9BA2c9zv3zbb68+kV6YzSsoVnqAA8iXUCZv1fkfKFIs8iw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\felip\\Documents\\Sistemas de Informação\\Trabalhos\\Game\\Game\\Game.csproj",
+  "projectFilePath": "C:\\Users\\felip\\Documents\\Sistemas de Informação\\Trabalhos\\git\\A2ComputacaoOrientadaServicos\\Game\\Game\\Game.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\felip\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\felip\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",

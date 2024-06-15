@@ -522,11 +522,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\felip\\Documents\\Sistemas de Informação\\Trabalhos\\Game\\Game\\Game.csproj",
+      "projectUniqueName": "C:\\Users\\felip\\Documents\\Sistemas de Informação\\Trabalhos\\git\\A2ComputacaoOrientadaServicos\\Game\\Game\\Game.csproj",
       "projectName": "Game",
-      "projectPath": "C:\\Users\\felip\\Documents\\Sistemas de Informação\\Trabalhos\\Game\\Game\\Game.csproj",
+      "projectPath": "C:\\Users\\felip\\Documents\\Sistemas de Informação\\Trabalhos\\git\\A2ComputacaoOrientadaServicos\\Game\\Game\\Game.csproj",
       "packagesPath": "C:\\Users\\felip\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\felip\\Documents\\Sistemas de Informação\\Trabalhos\\Game\\Game\\obj\\",
+      "outputPath": "C:\\Users\\felip\\Documents\\Sistemas de Informação\\Trabalhos\\git\\A2ComputacaoOrientadaServicos\\Game\\Game\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\felip\\AppData\\Roaming\\NuGet\\NuGet.Config",
