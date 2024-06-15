@@ -1,0 +1,36 @@
+name: dockercompose4762184085957626824
+services:
+  game:
+    build:
+      context: C:\Users\felip\Documents\Sistemas de Informação\Trabalhos\Nova pasta\A2ComputacaoOrientadaServicos\Game
+      dockerfile: Game/Dockerfile
+    depends_on:
+      sqlserver:
+        condition: service_started
+        required: true
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+      ConnectionStrings__DefaultConnection: Server=pclenda\\SQLEXPRESS;Database=GameDB;User=sa;Password=ComplexPassword123!;MultipleActiveResultSets=true;Encrypt=True;TrustServerCertificate=True
+    image: game
+    networks:
+      default: null
+    ports:
+      - mode: ingress
+        target: 8080
+        published: "8081"
+        protocol: tcp
+  sqlserver:
+    environment:
+      ACCEPT_EULA: "Y"
+      SA_PASSWORD: ComplexPassword123!
+    image: mcr.microsoft.com/mssql/server:latest
+    networks:
+      default: null
+    ports:
+      - mode: ingress
+        target: 1433
+        published: "1433"
+        protocol: tcp
+networks:
+  default:
+    name: dockercompose4762184085957626824_default
