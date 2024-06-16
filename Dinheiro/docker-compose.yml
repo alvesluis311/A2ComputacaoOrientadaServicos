@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  dinheiro:
+    image: ${DOCKER_REGISTRY-}dinheiro
+    build:
+      context: .
+      dockerfile: Dinheiro/Dockerfile

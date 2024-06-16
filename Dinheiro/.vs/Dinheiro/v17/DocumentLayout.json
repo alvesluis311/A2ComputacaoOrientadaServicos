@@ -1,0 +1,160 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\felip\\Downloads\\Cos2\\Dinheiro\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{491106E4-813D-4FB7-BDDC-8756DC691899}|Dinheiro\\Dinheiro.csproj|c:\\users\\felip\\downloads\\cos2\\dinheiro\\dinheiro\\models\\dinheirodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{491106E4-813D-4FB7-BDDC-8756DC691899}|Dinheiro\\Dinheiro.csproj|solutionrelative:dinheiro\\models\\dinheirodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{491106E4-813D-4FB7-BDDC-8756DC691899}|Dinheiro\\Dinheiro.csproj|c:\\users\\felip\\downloads\\cos2\\dinheiro\\dinheiro\\controllers\\moedascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{491106E4-813D-4FB7-BDDC-8756DC691899}|Dinheiro\\Dinheiro.csproj|solutionrelative:dinheiro\\controllers\\moedascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{491106E4-813D-4FB7-BDDC-8756DC691899}|Dinheiro\\Dinheiro.csproj|c:\\users\\felip\\downloads\\cos2\\dinheiro\\dinheiro\\models\\moeda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{491106E4-813D-4FB7-BDDC-8756DC691899}|Dinheiro\\Dinheiro.csproj|solutionrelative:dinheiro\\models\\moeda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01F08BC7-F33C-4989-BCDE-09DD3DD7CFF1}|docker-compose.dcproj|c:\\users\\felip\\downloads\\cos2\\dinheiro\\docker-compose.override.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{01F08BC7-F33C-4989-BCDE-09DD3DD7CFF1}|docker-compose.dcproj|solutionrelative:docker-compose.override.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{491106E4-813D-4FB7-BDDC-8756DC691899}|Dinheiro\\Dinheiro.csproj|c:\\users\\felip\\downloads\\cos2\\dinheiro\\dinheiro\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{491106E4-813D-4FB7-BDDC-8756DC691899}|Dinheiro\\Dinheiro.csproj|solutionrelative:dinheiro\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{491106E4-813D-4FB7-BDDC-8756DC691899}|Dinheiro\\Dinheiro.csproj|c:\\users\\felip\\downloads\\cos2\\dinheiro\\dinheiro\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{491106E4-813D-4FB7-BDDC-8756DC691899}|Dinheiro\\Dinheiro.csproj|solutionrelative:dinheiro\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{491106E4-813D-4FB7-BDDC-8756DC691899}|Dinheiro\\Dinheiro.csproj|c:\\users\\felip\\downloads\\cos2\\dinheiro\\dinheiro\\dinheiro.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{491106E4-813D-4FB7-BDDC-8756DC691899}|Dinheiro\\Dinheiro.csproj|solutionrelative:dinheiro\\dinheiro.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{491106E4-813D-4FB7-BDDC-8756DC691899}|Dinheiro\\Dinheiro.csproj|c:\\users\\felip\\downloads\\cos2\\dinheiro\\dinheiro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{491106E4-813D-4FB7-BDDC-8756DC691899}|Dinheiro\\Dinheiro.csproj|solutionrelative:dinheiro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Moeda.cs",
+              "DocumentMoniker": "C:\\Users\\felip\\Downloads\\Cos2\\Dinheiro\\Dinheiro\\Models\\Moeda.cs",
+              "RelativeDocumentMoniker": "Dinheiro\\Models\\Moeda.cs",
+              "ToolTip": "C:\\Users\\felip\\Downloads\\Cos2\\Dinheiro\\Dinheiro\\Models\\Moeda.cs",
+              "RelativeToolTip": "Dinheiro\\Models\\Moeda.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T02:59:44.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "docker-compose.override.yml",
+              "DocumentMoniker": "C:\\Users\\felip\\Downloads\\Cos2\\Dinheiro\\docker-compose.override.yml",
+              "RelativeDocumentMoniker": "docker-compose.override.yml",
+              "ToolTip": "C:\\Users\\felip\\Downloads\\Cos2\\Dinheiro\\docker-compose.override.yml",
+              "RelativeToolTip": "docker-compose.override.yml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAYwA4AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2024-06-16T02:56:15.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Dinheiro",
+              "DocumentMoniker": "C:\\Users\\felip\\Downloads\\Cos2\\Dinheiro\\Dinheiro\\Dinheiro.csproj",
+              "RelativeDocumentMoniker": "Dinheiro\\Dinheiro.csproj",
+              "ToolTip": "C:\\Users\\felip\\Downloads\\Cos2\\Dinheiro\\Dinheiro\\Dinheiro.csproj",
+              "RelativeToolTip": "Dinheiro\\Dinheiro.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-16T02:54:57.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\felip\\Downloads\\Cos2\\Dinheiro\\Dinheiro\\appsettings.json",
+              "RelativeDocumentMoniker": "Dinheiro\\appsettings.json",
+              "ToolTip": "C:\\Users\\felip\\Downloads\\Cos2\\Dinheiro\\Dinheiro\\appsettings.json",
+              "RelativeToolTip": "Dinheiro\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAUwAgAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-16T02:52:54.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\felip\\Downloads\\Cos2\\Dinheiro\\Dinheiro\\Program.cs",
+              "RelativeDocumentMoniker": "Dinheiro\\Program.cs",
+              "ToolTip": "C:\\Users\\felip\\Downloads\\Cos2\\Dinheiro\\Dinheiro\\Program.cs",
+              "RelativeToolTip": "Dinheiro\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T02:51:43.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DinheirodbContext.cs",
+              "DocumentMoniker": "C:\\Users\\felip\\Downloads\\Cos2\\Dinheiro\\Dinheiro\\Models\\DinheirodbContext.cs",
+              "RelativeDocumentMoniker": "Dinheiro\\Models\\DinheirodbContext.cs",
+              "ToolTip": "C:\\Users\\felip\\Downloads\\Cos2\\Dinheiro\\Dinheiro\\Models\\DinheirodbContext.cs",
+              "RelativeToolTip": "Dinheiro\\Models\\DinheirodbContext.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAYwCQAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T02:48:03.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MoedasController.cs",
+              "DocumentMoniker": "C:\\Users\\felip\\Downloads\\Cos2\\Dinheiro\\Dinheiro\\Controllers\\MoedasController.cs",
+              "RelativeDocumentMoniker": "Dinheiro\\Controllers\\MoedasController.cs",
+              "ToolTip": "C:\\Users\\felip\\Downloads\\Cos2\\Dinheiro\\Dinheiro\\Controllers\\MoedasController.cs",
+              "RelativeToolTip": "Dinheiro\\Controllers\\MoedasController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T03:01:48.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\felip\\Downloads\\Cos2\\Dinheiro\\Dinheiro\\Dockerfile",
+              "RelativeDocumentMoniker": "Dinheiro\\Dockerfile",
+              "ToolTip": "C:\\Users\\felip\\Downloads\\Cos2\\Dinheiro\\Dinheiro\\Dockerfile",
+              "RelativeToolTip": "Dinheiro\\Dockerfile",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-06-16T02:22:00.184Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

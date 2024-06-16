@@ -1,0 +1,38 @@
+name: dockercompose13721477380722735950
+services:
+  db:
+    environment:
+      POSTGRES_DB: dinheirodb
+      POSTGRES_PASSWORD: postgres
+      POSTGRES_USER: postgres
+    image: postgres:latest
+    networks:
+      default: null
+    ports:
+      - mode: ingress
+        target: 5432
+        published: "5432"
+        protocol: tcp
+  dinheiro:
+    build:
+      context: C:\Users\felip\Downloads\Cos2\Dinheiro
+      dockerfile: Dinheiro/Dockerfile
+    depends_on:
+      db:
+        condition: service_started
+        required: true
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+      ASPNETCORE_HTTP_PORTS: "8080"
+      ConnectionStrings__DefaultConnection: Host=db;Port=5432;Database=dinheirodb;Username=postgres;Password=postgres;
+    image: dinheiro
+    networks:
+      default: null
+    ports:
+      - mode: ingress
+        target: 8080
+        published: "8081"
+        protocol: tcp
+networks:
+  default:
+    name: dockercompose13721477380722735950_default
