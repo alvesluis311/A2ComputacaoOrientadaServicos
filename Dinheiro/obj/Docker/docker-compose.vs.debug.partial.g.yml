@@ -16,8 +16,8 @@ services:
       - ASPNETCORE_LOGGING__CONSOLE__DISABLECOLORS=true
       - NUGET_FALLBACK_PACKAGES=
     volumes:
-      - C:\Users\felip\Downloads\Cos2\Dinheiro\Dinheiro:/app
-      - C:\Users\felip\Downloads\Cos2\Dinheiro:/src
+      - C:\Users\felip\Downloads\Nova pasta\A2ComputacaoOrientadaServicos\Dinheiro\Dinheiro:/app
+      - C:\Users\felip\Downloads\Nova pasta\A2ComputacaoOrientadaServicos\Dinheiro:/src
       - C:\Users\felip\vsdbg\vs2017u5:/remote_debugger:rw
       - C:\Users\felip\.nuget\packages\:/.nuget/packages:ro
       - ${APPDATA}/ASP.NET/Https:/root/.aspnet/https:ro

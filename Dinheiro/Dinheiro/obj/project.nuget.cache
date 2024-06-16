@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+qFPdxF+mFtZyAymxOEF71t3hvT/bceB5RhtNBrKs+mkpA6RacOYkbl6ri7gnI3soAoR5yskfViP1tgOdDDNaw==",
+  "dgSpecHash": "qUuSdBfy9UKzscI7e67BY/sHgcNz2NleCudRCzjLYnsIbtyj4rE8J1HWP13dBBzN+rkXWYr7gMtfKvDRzurSXg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\felip\\Downloads\\Cos2\\Dinheiro\\Dinheiro\\Dinheiro.csproj",
+  "projectFilePath": "C:\\Users\\felip\\Downloads\\Nova pasta\\A2ComputacaoOrientadaServicos\\Dinheiro\\Dinheiro\\Dinheiro.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\felip\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
     "C:\\Users\\felip\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",

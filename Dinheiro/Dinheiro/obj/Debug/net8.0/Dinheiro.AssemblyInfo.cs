@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Dinheiro")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1d04b0e31eee32dba69fa401ef1681840f378027")]
 [assembly: System.Reflection.AssemblyProductAttribute("Dinheiro")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Dinheiro")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
